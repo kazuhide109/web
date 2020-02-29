@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        web
+        KAZUHIDE
       </h1>
       <h2 class="subtitle">
         My classy Nuxt.js project
